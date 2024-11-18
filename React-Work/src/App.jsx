@@ -2,7 +2,7 @@ import "./App.css";
 import Student from "./components/Student/Student";
 
 function App() {
-  const data = { name: "Aman", rollno: "15", branch: "CSE" };
+  const data = { name: "shdkshf", rollno: "132", branch: "CSE" };
   return (
     <>
       <div className="college-header">
