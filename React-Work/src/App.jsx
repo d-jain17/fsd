@@ -2,6 +2,7 @@ import "./App.css";
 import Student from "./components/Student/Student";
 import logo from "./assets/logo.jpg"
 import StudentState from "./components/Student/studentState/StudentState";
+import Imagemanipulation from "./Imagemanipulation";
 
 function App() {
   const data = { name: "yaya", rollno: "15", branch: "CSE" };
@@ -18,7 +19,9 @@ function App() {
     // */}
     <div>
       <StudentState/>
+      <Imagemanipulation/>
     </div>
+
   );
 }
 
