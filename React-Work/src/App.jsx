@@ -1,8 +1,9 @@
 import "./App.css";
 import Student from "./components/Student/Student";
 import logo from "./assets/logo.jpg"
-import StudentState from "./components/Student/studentState/StudentState";
+import StudentState from "./components/studentState/StudentState";
 import Imagemanipulation from "./Imagemanipulation";
+import Login from "./components/Login";
 
 function App() {
   const data = { name: "yaya", rollno: "15", branch: "CSE" };
@@ -20,6 +21,7 @@ function App() {
     <div>
       <StudentState/>
       <Imagemanipulation/>
+      <Login/>
     </div>
 
   );
