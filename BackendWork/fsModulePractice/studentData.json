@@ -1,0 +1,16 @@
+[{
+    "name":"Amit",
+    "roll_number": "21",
+    "branch":"CSE",
+    "section":"A",
+    "college":"ABES Engineering college,ghaziabad"
+
+},
+{
+    "name":"Ravi",
+    "roll_number": "2",
+    "branch":"CSE",
+    "section":"A",
+    "college":"ABES Engineering college,ghaziabad"
+}
+]

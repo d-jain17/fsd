@@ -1,0 +1,5 @@
+const {dataRead,dataWrite, dataAppend, deleteFile}=require('./FileOperation')
+console.log(dataRead())
+console.log(dataWrite())
+console.log(dataAppend("I am using fs to append data"))
+deleteFile()
