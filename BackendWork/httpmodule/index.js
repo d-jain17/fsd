@@ -15,6 +15,12 @@ res.end("server is stoped");
             msg:"sucessfully hit the api"
         }))
     }
+    if(req.url=='/show' && req.method=='POST'){
+        res.setHeader('Content-Type','application/json')
+        res.end(JSON.stringify({
+            msg:"hit the post API @/show"
+        }))
+    }
     
 })
 
