@@ -1,1 +1,42 @@
-{"name":"Amir","email":"jjdnj@gmail.com","password":"whdhdis"}{"name":"Akshay","email":"jjdfjwii@gmail.com","password":"whdhdis"}
+[
+  {
+    "name": "Akshay",
+    "email": "jjdfjwii@gmail.com",
+    "password": "whdhdis"
+  },
+  {
+    "name": "abcd",
+    "email": "abcd@gmail.com",
+    "password": 123456
+  },
+  {
+    "name": "atharv",
+    "email": "atharv@gmail.com",
+    "password": "whdhdis"
+  },
+  {
+    "name": "xyz",
+    "email": "xyz@gmail.com",
+    "password": 123456
+  },
+  {
+    "name": "atharv",
+    "email": "atharv@gmail.com",
+    "password": "whdhdis"
+  },
+  {
+    "name": "djfhej",
+    "email": "ekfk@gmail.com",
+    "password": "whdhdis"
+  },
+  {
+    "name": "djfhej",
+    "email": "ekfk@gmail.com",
+    "password": "whdhdis"
+  },
+  {
+    "name": "3or3ws",
+    "email": "wokewo@gmail.com",
+    "password": "whdhdis"
+  }
+]
